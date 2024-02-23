@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5facf34a-5392-482f-93d5-0cb046248bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectStructor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/util/InputMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business/util/ShopMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presentation/admin/CatalogManagerView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presentation/admin/DashBoardView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presentation/admin/ProductManagerView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presentation/run/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jbcrypt_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectmd2/business/design/IDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectmd2/business/design/IUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectmd2/business/designImpl/UserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectmd2/business/entity/RoleName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectmd2/business/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectmd2/business/util/IOFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectmd2/business/util/ShopConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectmd2/business/util/ShopValidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectmd2/presentation/run/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projectmd2/presentation/user/HomePageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectStructor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectStructor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/business/util/InputMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projectmd2/business/util/InputMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/business/util/ShopMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projectmd2/business/util/ShopMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presentation/admin/CatalogManagerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projectmd2/presentation/admin/CatalogManagerView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presentation/admin/DashBoardView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projectmd2/presentation/admin/DashBoardView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presentation/admin/ProductManagerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projectmd2/presentation/admin/ProductManagerView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/presentation/run/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projectmd2/presentation/run/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -30,9 +43,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ciTAg6Waw6sx5xkfLQf971YWHl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,19 +61,66 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/AD/Downloads/jbcrypt-0.4.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/AD/Desktop/ProjectStructor/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="projectmd2.business.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projectmd2.presentation.run.Main" />
+      <module name="ProjectStructor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projectmd2.presentation.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projectmd2.presentation.run.Test" />
+      <module name="ProjectStructor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projectmd2.presentation.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,11 +136,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708593260040</updated>
-      <workItem from="1708593261184" duration="453000" />
+      <workItem from="1708593261184" duration="1146000" />
+      <workItem from="1708650162294" duration="3393000" />
+      <workItem from="1708653578047" duration="2527000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/projectmd2/business/designImpl/UserImpl.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
